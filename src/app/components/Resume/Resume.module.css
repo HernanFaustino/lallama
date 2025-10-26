@@ -1,0 +1,18 @@
+.techItem {
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem 0;
+}
+
+.techList {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+.divider {
+  border-top: 1px solid #eee;
+  margin-bottom: 1.5rem;
+  margin-top: .5rem;
+}
+
