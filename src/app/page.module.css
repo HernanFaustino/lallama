@@ -11,20 +11,17 @@
   padding-right: 2rem;
 }
 
-.textContainer h1 {
-  font-size: 2.5rem;
+.textContainer h3 {
   font-weight: 500;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.3rem;
 }
 
-.textContainer h2 {
-  font-size: 2.0rem;
+.textContainer h4 {
   color: #666;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .textContainer p {
-  font-size: 2.0rem;
   color: #444;
   line-height: 1.6;
   margin-bottom: 2rem;
@@ -54,7 +51,6 @@
 
 .ctaButtons {
   display: flex;
-
   gap: 1rem;
 }
 

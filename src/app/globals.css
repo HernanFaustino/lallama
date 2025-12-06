@@ -1,4 +1,11 @@
+@import './css/_variables.scss';
+@import './css/_keyframe-animations.scss';
 @import './css/skeleton.css';
-/*
-@import './css/normalize.css';
-*/
+
+
+/*@import './css/normalize.css';*/
+
+/* Scoped to the editor */
+.tiptap {
+  border: 1px solid #bbb;
+}

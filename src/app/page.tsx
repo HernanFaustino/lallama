@@ -7,8 +7,8 @@ export default function HomePage() {
     <div>
       <section className={styles.heroSection}>
         <div className={styles.textContainer}>
-          <h1>Hernán Chuctaya</h1>
-          <h2>Fullstack Developer</h2>
+          <h3>Hernán Chuctaya</h3>
+          <h4>Fullstack Developer</h4>
           <p>
             Specialized in JavaScript, TypeScript, React and Node.js. Passionate about modern
             architecture and web experience design.
